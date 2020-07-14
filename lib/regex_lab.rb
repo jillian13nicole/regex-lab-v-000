@@ -1,4 +1,4 @@
-def starts_with_a_vowel? (word.scan)
+def starts_with_a_vowel? (word)
 (/^\w[aeiou]\)
 end
 
